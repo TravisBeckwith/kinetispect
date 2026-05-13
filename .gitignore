@@ -31,3 +31,10 @@ results/
 # OS
 .DS_Store
 Thumbs.db
+
+# Large simulation outputs (keep figures, not raw data)
+results/*.npy
+results/*.npz
+results/*.h5
+results/*.hdf5
+results/*.pkl
