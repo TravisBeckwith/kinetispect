@@ -1,4 +1,4 @@
-# kinetispect
+# kinetispect (Beta v0.1)
 
 Kinetic spectral estimation for functional MRS.
 
