@@ -23,7 +23,6 @@ htmlcov/
 *.npz
 *.mat
 data/
-results/
 
 # Jupyter
 .ipynb_checkpoints/
